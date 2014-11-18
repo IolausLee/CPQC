@@ -1,4 +1,4 @@
 CPQC
 ====
 
-CPQC bssed on DSP TMS320F28335
+CPQC based on DSP TMS320F28335
